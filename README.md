@@ -1,79 +1,60 @@
-# Hi there, I'm Charan! 👋
+<a href="https://charanmulagala.me">
+  <img src="assets/header.svg" width="1120" alt="Charan Mulagala — AI and software. AI & Data Science at IIITDM Kurnool. A wireframe landscape illustrates finding structure in visual data.">
+</a>
 
-[![GitHub followers](https://img.shields.io/github/followers/M-SaiCharan?label=Follow&style=social)](https://github.com/M-SaiCharan)
-<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/sai-charan-mulagala-316a34318/) -->
-<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange)](https://your-portfolio.com) -->
-
-## 🚀 About Me
-
-I'm a passionate **Software Developer** and **Data Science Enthusiast** who enjoys building things that matter. I love solving real-world problems using **AI**, **ML**, and other cutting-edge technologies. I'm currently learning **AI/ML** and working on exciting projects!
-
-<!-- - 🔭 I’m currently working on: [Your Current Project](https://github.com/your-repo) -->
-- 🌱 I’m currently learning: AI/ML, Full Stack Development
-- 💬 Ask me about: AI, Machine Learning, Data Structures & Algorithms
-- ⚡ Fun fact: I love photography 📷, especially being a part of [Apertura Club](#)
-
----
-
-## 🛠️ Skills & Technologies
-
-**Languages**:  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![RISC-V](https://img.shields.io/badge/RISC--V-001E2B?style=for-the-badge&logo=risc-v&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-<!-- ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) -->
-
-**Frameworks & Libraries**:  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-<!-- ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) -->
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-**Tools & Platforms**:  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-<!-- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) -->
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![JupyterLab](https://img.shields.io/badge/JupyterLab-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=M-SaiCharan&show_icons=true&theme=radical" alt="Charan's GitHub Stats">
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=M-SaiCharan&theme=radical" alt="GitHub Streak">
+<p>
+  <a href="https://charanmulagala.me"><strong>Portfolio ↗</strong></a> &nbsp; / &nbsp;
+  <a href="https://www.linkedin.com/in/charanmulagala/">LinkedIn ↗</a> &nbsp; / &nbsp;
+  <a href="mailto:contact@charanmulagala.me">Say hello ↗</a>
 </p>
 
-<!--
----
+### In focus
 
-## 🏆 Achievements
+I'm Charan, a **B.Tech student in Artificial Intelligence & Data Science at IIITDM Kurnool**, graduating in **2027**. I'm interested in problems that start outside a clean dataset: imperfect images, movement, and long stretches of video.
 
-- 🥇 **Top Contributor** in [Project X](https://github.com/your-repo)
-- 🎖️ [Hackathon Name] Finalist
-- 🧑‍🏫 Mentored students in [Tech Event]
+I like working through the whole path — understanding the input, building the model, and making it usable through an application. Getting it to run on hardware people already own matters to me.
 
----
+<img src="assets/process.svg" width="1120" alt="My approach: real-world input → computer vision and retrieval → usable software.">
 
-## 📚 Recent Projects
+- **Computer vision:** making sense of images and motion with detection, recognition, and visual features.
+- **Retrieval & ML:** connecting visual information with useful search and answers.
+- **Software around the model:** APIs, interfaces, and the practical work of making everything run together.
 
-- **[Movie Gross Predictor](https://github.com/your-repo)** - A machine learning model to predict movie collections based on budget, director, and cast.
-- **[Portfolio Website](https://github.com/your-repo)** - My personal portfolio website built with React and modern web technologies.
-- **[DAA Lab Projects](https://github.com/your-repo)** - Collection of Data Structures and Algorithms implementations for academic purposes.
--->
----
+### On the workbench
 
-## 🌐 Connect With Me
+<table>
+  <tr><th align="left">Area</th><th align="left">Tools I work with</th></tr>
+  <tr><td><strong>Languages</strong></td><td>Python · C++ · C · JavaScript · Go · SQL</td></tr>
+  <tr><td><strong>Vision & ML</strong></td><td>PyTorch · TensorFlow · scikit-learn · OpenCV · MediaPipe</td></tr>
+  <tr><td><strong>Data & retrieval</strong></td><td>Pandas · Seaborn · CLIP / BLIP · LangChain · FAISS</td></tr>
+  <tr><td><strong>Apps & deployment</strong></td><td>FastAPI · Flask · Streamlit · ONNX Runtime · Docker</td></tr>
+  <tr><td><strong>Everyday tools</strong></td><td>Git · Linux · VS Code · JupyterLab</td></tr>
+</table>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/sai-charan-mulagala-316a34318/)
+**Currently learning** &nbsp; Swift, alongside AI/ML and full-stack development.<br>
+**Also interested in** &nbsp; Data structures & algorithms, and RISC-V architecture.
 
-<!--[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange)](https://your-portfolio.com)-->
+### Along the way
 
----
+**2024–25 · Codexintern** — Python developer internship. Backend tools and automation with Flask and SQL.<br>
+**2025 · ElevateLabs** — AI/ML internship. Data preprocessing, visualisation, and model-building with scikit-learn and TensorFlow.<br>
+**2025 · Salesforce** — Developer internship. Apex, Lightning Web Components, and process automation.
 
-Thanks for visiting! Have a great day! 😊
+### Outside the frame
+
+Photography is the other way I work with images. I'm part of **Apertura Club** and coordinate photography activities at IIITDM Kurnool — covering campus events and helping run workshops and competitions.
+
+I'm open to **internships and graduate roles in ML and software**. If you're working on something in that space, <a href="mailto:contact@charanmulagala.me">let's talk</a>.
+
+### On GitHub
+
+<p>
+  <a href="https://github.com/M-SaiCharan"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=M-SaiCharan&theme=github_dark" width="320" alt="GitHub stats: stars, commits, pull requests, issues, and repositories contributed to"></a>
+  <a href="https://github.com/M-SaiCharan"><img src="https://github-readme-streak-stats.herokuapp.com/?user=M-SaiCharan&background=0E0E0E&ring=FF3838&fire=FF3838&currStreakLabel=FF3838&sideLabels=ECECEC&currStreakNum=ECECEC&sideNums=ECECEC&dates=A4A4A4&hide_border=true" width="475" alt="GitHub contribution totals, current streak, and longest streak"></a>
+</p>
+
+<br>
+
+<a href="https://charanmulagala.me">
+  <img src="assets/portfolio.svg" width="1120" alt="Outside this repo — visit charanmulagala.me">
+</a>
