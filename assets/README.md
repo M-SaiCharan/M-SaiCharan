@@ -6,3 +6,10 @@
 - Small lettering uses DejaVu Sans and DejaVu Sans Mono outlines; see DEJAVU-LICENSE.txt.
 - The designs use the portfolio palette: #0e0e0e, #ececec, and #ff3838.
 - All SVGs are static and contain no scripts or external font requests.
+
+## Middle sections
+
+- middle/ contains transparent, theme-aware section labels, the typographic toolkit, and an experience timeline.
+- Each graphic has light/dark variants and a separate narrow-screen layout, selected with native HTML picture sources.
+- Text versions of the toolkit and experience are included in the README for copying and accessibility.
+- Internship dates match the experience section of https://charanmulagala.me/.

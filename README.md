@@ -8,7 +8,14 @@
   <a href="mailto:contact@charanmulagala.me">Say hello ↗</a>
 </p>
 
-### In focus
+<br>
+
+<picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/middle/focus-mobile-dark.svg">
+  <source media="(max-width: 600px)" srcset="assets/middle/focus-mobile-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/middle/focus-dark.svg">
+  <img src="assets/middle/focus-light.svg" width="1120" alt="In focus">
+</picture>
 
 I'm Charan, a **B.Tech student in Artificial Intelligence & Data Science at IIITDM Kurnool**, graduating in **2027**. I'm interested in problems that start outside a clean dataset: imperfect images, movement, and long stretches of video.
 
@@ -20,33 +27,82 @@ I like working through the whole path — understanding the input, building the 
 - **Retrieval & ML:** connecting visual information with useful search and answers.
 - **Software around the model:** APIs, interfaces, and the practical work of making everything run together.
 
-### On the workbench
+<br>
 
-<table>
-  <tr><th align="left">Area</th><th align="left">Tools I work with</th></tr>
-  <tr><td><strong>Languages</strong></td><td>Python · C++ · C · JavaScript · Go · SQL</td></tr>
-  <tr><td><strong>Vision & ML</strong></td><td>PyTorch · TensorFlow · scikit-learn · OpenCV · MediaPipe</td></tr>
-  <tr><td><strong>Data & retrieval</strong></td><td>Pandas · Seaborn · CLIP / BLIP · LangChain · FAISS</td></tr>
-  <tr><td><strong>Apps & deployment</strong></td><td>FastAPI · Flask · Streamlit · ONNX Runtime · Docker</td></tr>
-  <tr><td><strong>Everyday tools</strong></td><td>Git · Linux · VS Code · JupyterLab</td></tr>
-</table>
+<picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/middle/workbench-mobile-dark.svg">
+  <source media="(max-width: 600px)" srcset="assets/middle/workbench-mobile-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/middle/workbench-dark.svg">
+  <img src="assets/middle/workbench-light.svg" width="1120" alt="On the workbench">
+</picture>
+
+<picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/middle/toolkit-mobile-dark.svg">
+  <source media="(max-width: 600px)" srcset="assets/middle/toolkit-mobile-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/middle/toolkit-dark.svg">
+  <img src="assets/middle/toolkit-light.svg" width="1120" alt="Tools grouped by languages, vision and ML, data and retrieval, apps and deployment, and everyday tools. An expandable text version follows.">
+</picture>
+
+<details>
+<summary>Toolkit — text version</summary>
+
+- **Languages:** Python · C++ · C · JavaScript · Go · SQL
+- **Vision & ML:** PyTorch · TensorFlow · scikit-learn · OpenCV · MediaPipe
+- **Data & retrieval:** Pandas · Seaborn · CLIP / BLIP · LangChain · FAISS
+- **Apps & deployment:** FastAPI · Flask · Streamlit · ONNX Runtime · Docker
+- **Everyday tools:** Git · Linux · VS Code · JupyterLab
+
+</details>
 
 **Currently learning** &nbsp; Swift, alongside AI/ML and full-stack development.<br>
 **Also interested in** &nbsp; Data structures & algorithms, and RISC-V architecture.
 
-### Along the way
+<br>
 
-**2024–25 · Codexintern** — Python developer internship. Backend tools and automation with Flask and SQL.<br>
-**2025 · ElevateLabs** — AI/ML internship. Data preprocessing, visualisation, and model-building with scikit-learn and TensorFlow.<br>
-**2025 · Salesforce** — Developer internship. Apex, Lightning Web Components, and process automation.
+<picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/middle/experience-mobile-dark.svg">
+  <source media="(max-width: 600px)" srcset="assets/middle/experience-mobile-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/middle/experience-dark.svg">
+  <img src="assets/middle/experience-light.svg" width="1120" alt="Along the way">
+</picture>
 
-### Outside the frame
+<picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/middle/timeline-mobile-dark.svg">
+  <source media="(max-width: 600px)" srcset="assets/middle/timeline-mobile-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/middle/timeline-dark.svg">
+  <img src="assets/middle/timeline-light.svg" width="1120" alt="Internship timeline: Codexintern, December 2024–January 2025; ElevateLabs, May–June 2025; Salesforce, May–July 2025. An expandable text version follows.">
+</picture>
+
+<details>
+<summary>Experience — text version</summary>
+
+- **Dec 2024–Jan 2025 · Codexintern:** Python Developer Intern. Backend tools and automation with Flask and SQL.
+- **May–Jun 2025 · ElevateLabs:** AI & ML Intern. Data preprocessing, visualisation, and model-building with scikit-learn and TensorFlow.
+- **May–Jul 2025 · Salesforce:** Developer Intern. Apex, Lightning Web Components, and process automation.
+
+</details>
+
+<br>
+
+<picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/middle/outside-mobile-dark.svg">
+  <source media="(max-width: 600px)" srcset="assets/middle/outside-mobile-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/middle/outside-dark.svg">
+  <img src="assets/middle/outside-light.svg" width="1120" alt="Outside the frame">
+</picture>
 
 Photography is the other way I work with images. I'm part of **Apertura Club** and coordinate photography activities at IIITDM Kurnool — covering campus events and helping run workshops and competitions.
 
 I'm open to **internships and graduate roles in ML and software**. If you're working on something in that space, <a href="mailto:contact@charanmulagala.me">let's talk</a>.
 
-### On GitHub
+<br>
+
+<picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/middle/github-mobile-dark.svg">
+  <source media="(max-width: 600px)" srcset="assets/middle/github-mobile-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/middle/github-dark.svg">
+  <img src="assets/middle/github-light.svg" width="1120" alt="On GitHub">
+</picture>
 
 <p>
   <a href="https://github.com/M-SaiCharan"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=M-SaiCharan&theme=github_dark" width="320" alt="GitHub stats: stars, commits, pull requests, issues, and repositories contributed to"></a>
